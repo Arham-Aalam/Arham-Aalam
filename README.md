@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Arham</h1>
 <h5 align="center">
-Working as a CTO at Torque Vision Labs, building games in my spare time, love open source projects!
+Working as a software engineer at Google, building games in my spare time, love open source projects!
 </h5>
 <p>
 <a align= "center" href="https://github.com/arham-aalam">
